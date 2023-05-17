@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Celaraz';
+    src: url('Celaraz-Bold.woff2') format('woff2'),
+        url('Celaraz-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 90 Exa';
+    src: url('Extenda-90Exa.woff2') format('woff2'),
+        url('Extenda-90Exa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 100 Yotta';
+    src: url('Extenda-100Yotta.woff2') format('woff2'),
+        url('Extenda-100Yotta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 40 Hecto';
+    src: url('Extenda-40Hecto.woff2') format('woff2'),
+        url('Extenda-40Hecto.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 20 Micro';
+    src: url('Extenda-20Micro.woff2') format('woff2'),
+        url('Extenda-20Micro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 80 Peta';
+    src: url('Extenda-80Peta.woff2') format('woff2'),
+        url('Extenda-80Peta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 30 Deca';
+    src: url('Extenda-30Deca.woff2') format('woff2'),
+        url('Extenda-30Deca.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 50 Mega';
+    src: url('Extenda-50Mega.woff2') format('woff2'),
+        url('Extenda-50Mega.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 60 Giga';
+    src: url('Extenda-60Giga.woff2') format('woff2'),
+        url('Extenda-60Giga.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 10 Pica';
+    src: url('Extenda-10Pica.woff2') format('woff2'),
+        url('Extenda-10Pica.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda Extendable';
+    src: url('Extenda-Extendable.woff2') format('woff2'),
+        url('Extenda-Extendable.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 15 Nano';
+    src: url('Extenda-15Nano.woff2') format('woff2'),
+        url('Extenda-15Nano.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Extenda 70 Tera';
+    src: url('Extenda-70Tera.woff2') format('woff2'),
+        url('Extenda-70Tera.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
